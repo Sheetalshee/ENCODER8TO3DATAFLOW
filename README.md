@@ -44,7 +44,8 @@ endmodule
 . 
 
 Developed by: RegisterNumber: R.SHEETAL (212223230206) 
-*/
+
+
 **OUTPUT**
 
 ![Screenshot (5)](https://github.com/Sheetalshee/ENCODER8TO3DATAFLOW/assets/144979107/96d07ebc-457d-40d1-9b24-290ab83967a9)
